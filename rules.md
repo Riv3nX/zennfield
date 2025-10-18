@@ -105,17 +105,15 @@ Zakázané:
 
 ---
 
-## 10. Banditské mestá a frakcie
+## 10. Banditské mestá a osady
 - Banditské mestá: **Tumbleweed** a **Van Horn** – rizikové zóny  
-- Frakcie musia byť schválené cez ticket  
-- Maximálny počet členov: **12**  
-- Obsadenie banditského mesta musí byť schválené cez ticket  
+- Obsadenie osad a banditských miest musí byť schválené cez ticket  
+
 
 ---
 
 ## 11. PvP a prestrelky
 - Cieľom PvP je RP, nie rýchle zabíjanie  
-- Max. **8 hráčov** na jednu stranu  
 - Streľbe musí predchádzať interakcia  
 - Duel = PK, nie CK  
 - Combat Log (odpojenie zo situácie) je prísne zakázaný  
