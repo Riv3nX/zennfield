@@ -1,5 +1,24 @@
-Las Islas Filipinas exists in a unique universe where the history of the islands and its people follows a path very different from that of the real world.
+Rok 1899.   
+Svet sa mení a staré spôsoby života miznú.
+ 
+Po občianskej vojne sa tu usadili zbehovia, osadníci, vyhnanci a všetci, ktorí hľadali nový začiatok.  
+Niektorí hľadali pokoj, iní len miesto, kde ich nedoženie minulosť.
 
-In this universe, the oppression, discrimination, and marginalization of people based on race, heritage, skin color, gender, class, or sexuality never took place. While historical events and figures can still serve as inspiration, any conflict or harm based on these factors has never occurred.
+Starý svet sa tu mieša s novým: železnice sa rozťahujú, banky vznikajú ako huby po daždi, a zbrojovky dodávajú viac zbraní než farmári dokážu vypestovať obilia.  
+Každý si musí zvoliť stranu – alebo prežiť medzi nimi.
 
-Though cruelty, violence, and greed still persist in this universe, conflicts arise not from personal differences, but over power, resources, and wealth. Nations still rise and fall, but humanity's struggles are rooted in ambition, not hatred or division.
+Po kraji sa šíria chýry o **stratenom zlate z vojny** – vraj pochádza z poslednej zásielky Konfederácie, ktorá zmizla.
+Niektorí tvrdia, že ho stráži duch plukovníka, iní že ho už dávno našiel niekto z miestnych.  
+Zlato je prekliatie – kam vstúpi chamtivosť, tam prichádza aj smrť.
+
+Kraj stojí na hrane.  
+Banditi silnejú a indiánske územia sú stále častejšie cieľom útokov.  
+V saloonoch sa šepká o tom, že nový guvernér chystá „očistu“ – vraj má poslať jednotky, aby kraj vrátil pod kontrolu federácie.
+
+Niektorí chcú ujsť. Iní sa pripravujú bojovať.  
+A pár z nich... len sleduje, ako sa svet rúti do pekla – s pohárom whisky a pištoľou na stole.
+
+
+Zennfield je miestom, kde **každé rozhodnutie má následky**.  
+Kde spravodlivosť nie je napísaná v zákonníku, ale v srdci každého, kto prežil.  
+Kde hranica medzi hrdinom a zločincom je taká tenká, že ju možno prekročiť jediným výstreľom.
