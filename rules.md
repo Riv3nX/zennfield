@@ -61,10 +61,9 @@ Metagaming sa trestá **permanentným banom**.
 ## 5. RP mechaniky
 - `/me` – popis viditeľnej činnosti  
 - `/do` – opis stavu, prostredia, reakcie (nesmie sa klamať ani ovplyvniť cudziu postavu)  
-- `/try` – náhodná odpoveď áno/nie (len keď výsledok nie je jasný)  
-- `/stav` – viditeľný stav postavy  
+- `/try` – náhodná odpoveď áno/nie (len keď výsledok nie je jasný)   
 - `/doc` – časový odpočet pre dlhšie činnosti  
-- `/scena` – stopa alebo vodítko zanechané na mieste  
+- `/zde`a `/scenes` – stopa alebo vodítko zanechané na mieste  
 
 ---
 
