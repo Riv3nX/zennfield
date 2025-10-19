@@ -92,7 +92,7 @@ Zakázané:
 - **CK (Character Kill):** permanentná smrť postavy – schvaľuje AT cez ticket  
 - **Self CK:** povolený len po schválení AT  
 - **Situačné CK:** len cez ticket  
-- **RK (Revenge Kill):** až po 30 minútach, nie na postavy z pomsty  
+- **RK (Revenge Kill):** po 30 minútach
 
 ---
 
