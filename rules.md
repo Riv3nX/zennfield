@@ -233,7 +233,7 @@ Nesmí obsahovat **speciální znaky, barvy, cizí abecedy, emotikony, reklamy, 
 
 ## 20. Banditská města a osady
 
-* Banditská města: **Tumbleweed** a **Van Horn** – rizikové zóny
+* Banditská města: **Thieve's Landing** a **Van Horn** – rizikové zóny
 * Obsazení osad a banditských měst musí být schváleno přes ticket
 
 ---
