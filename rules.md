@@ -120,7 +120,7 @@ Nesmí obsahovat **speciální znaky, barvy, cizí abecedy, emotikony, reklamy, 
 * Jedná se o "nechutný roleplay"
 * Patří sem: mučení, kanibalismus, sexuální obtěžování, znásilnění, pedofilie, brutální rasistické projevy.
 * Vyžaduje se **souhlas všech zúčastněných v LOOC**.
-* Každý může svůj souhlas kdykoliv odvolat a akce musí být **okamžitě ukončena**.
+* Každý může svůj souhlas kdykoliv odvolat a akce musí být **okamžitě ukončena**. Neplatí pro Indiánská území.
 * Tento souhlas udělujete automaticky všem indiánům, při neoprávněném vstupu na Indiánské území
 * Je zakázáno mučit hráče tak, aby museli rpit trvalé následky (odřezávání končetin, vypalování znaků) – výjimkou je **CK**
 
