@@ -243,11 +243,19 @@ Nesmí obsahovat **speciální znaky, barvy, cizí abecedy, emotikony, reklamy, 
 * Cílem PvP je **RP, ne rychlé zabíjení**
 * Před střelbou musí proběhnout interakce
 * Duel = PK, nikoli CK
+* Zaměřovače: Je zakázáno používat jakékoliv zaměřovače na zbraních, a to bez výjimky, včetně šerifů a armády.
 * **Combat Log** (odpojení ze situace) je přísně zakázán
 
 ---
 
-## 22. Fail, Troll, KOS a Trash RP
+## 22. Korupce
+
+* Jakákoli korupce ve státních složkách nebo na úřednických postech je naprosto zakázána
+* Je možné požádat o korupci prostřednictvím ticketu
+
+---
+
+## 23. Fail, Troll, KOS a Trash RP
 
 Zakázáno:
 
@@ -259,7 +267,7 @@ Zakázáno:
 
 ---
 
-## 23. Streamy a nahrávání
+## 24. Streamy a nahrávání
 
 * Streameři musí dodržovat stejná pravidla jako ostatní hráči
 * Jsou zodpovědní za svůj chat a nesmí podporovat metagaming
@@ -269,7 +277,7 @@ Zakázáno:
 
 ---
 
-## 24. Zakázané modování hry
+## 25. Zakázané modování hry
 
 🚫 **Nulová tolerance pro podvody a neférové výhody**
 
@@ -287,7 +295,7 @@ Zakázáno je i **obcházení trestů nebo zakládání nových účtů po banu*
 
 ---
 
-## 25. Závěr
+## 26. Závěr
 
 * **Admin Team má vždy poslední slovo**
 * Hráči jsou povinni hlásit bugy a porušení pravidel přes ticket
