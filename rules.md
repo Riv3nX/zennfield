@@ -28,8 +28,7 @@ Zakázáno je také **provokovat nebo trollit hráče** s cílem vyvolat OOC kon
 Každý hráč má povinnost chovat se s respektem a přispívat k dobré atmosféře projektu.
 Každý hráč **musí být členem oficiálního Discordu ZENNFIELD**.
 
-Herní přezdívka musí být **jednotná na všech platformách** (Steam, Discord, RedM).
-Nesmí obsahovat **speciální znaky, barvy, cizí abecedy, emotikony, reklamy, vulgarismy ani nevhodné výrazy**.
+Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, emotikony, reklamy, vulgarismy ani nevhodné výrazy**.
 
 * Minimální věk pro vstup: **15 let**
 * Povinnost mít funkční a kvalitní mikrofon
