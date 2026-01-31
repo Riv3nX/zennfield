@@ -61,7 +61,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 ## 3. RP mechaniky
 
 * `/me` – popis viditelné činnosti, která nejde provézt animací
-* `/do` – popis stavu, prostředí nebo reakce (nesmí se lhát ani ovlivňovat cizí postava)
+* `/do` – popis stavu, prostředí nebo reakce (Do /do je přísně zakázáno lhát, ovlivňovat cizí RP a RP pocitů)
 * `/try` – náhodná odpověď ano/ne (pouze když výsledek není jasný)
 * `/doc` – časový odpočet pro delší činnosti
 * `/zde` a `/scenes` – zanechání stopy nebo vodítka na místě
@@ -71,7 +71,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 ## 4. Metagaming a nabádání k Metagamingu
 
 * Veškeré informace, které se dozvím **OOC a použiju je IC**, je bráno jako METAGAMING
-* Streamsniping taktéž spadá pod toto pravidlo
+* Stream sniping taktéž spadá pod toto pravidlo
 * Jakékoli vypisování OOC informací jinému hráči, který by je mohl jakkoli byť jen podvědomě využít je bráno jako porušení pravidla
 
 ---
@@ -109,7 +109,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 ## 9. Fear RP + NVL
 
 * Hraní strachu - je potřeba brát v potaz aktuální situaci a k ní přizpůsobit svoje RP `/me`, `/do` a mluvení (váš tón) ať už se jedná o vás či blízkou osobu.
-* Musíte dbát také na příběh své postavy (tudíž ze sebe nedělat superhrdinu) a mít respekt k ozbrojeným složkám, hlavně při jejich nevýhodě, pokud situace nevyžaduje jinak.
+* Musíte dbát také na příběh své postavy a mít respekt k ozbrojeným složkám.
 * Toto pravidlo se netýká nelegálních skupin, které budou v danou chvíli v konfliktu s ozbrojenými složkami
 
 ---
@@ -120,8 +120,10 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Patří sem: mučení, kanibalismus, sexuální obtěžování, znásilnění, pedofilie, brutální rasistické projevy.
 * Vyžaduje se **souhlas všech zúčastněných v LOOC**.
 * Každý může svůj souhlas kdykoliv odvolat a akce musí být **okamžitě ukončena**. Neplatí pro Indiánská území.
-* Tento souhlas udělujete automaticky všem indiánům, při neoprávněném vstupu na Indiánské území
+* Pokud se do RP přidá **nový hráč**, gross rp musí být **pozastaveno** a znovu schváleno všemi zúčastněnými.
+* Při neoprávněném vstupu na **indiánské území** je automaticky schválen gross.
 * Je zakázáno mučit hráče tak, aby museli rpit trvalé následky (odřezávání končetin, vypalování znaků) – výjimkou je **CK**
+* Je zakázáno hráče nutit do hlasového RP během grossu, pokud hráč sám nechce.
 
 ---
 
