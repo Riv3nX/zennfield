@@ -53,7 +53,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * **RP (Roleplay):** hráč se vžívá do postavy, kterou vytvořil (Stáváte se herci)
 * **IC (In Character):** vše, co se odehrává ve světě a je součástí RP
-  - Veškerá IC komunikace je povolena pouze skrze mechaniku hry (např. telegram), vyjímkou je frakční discord **!SCHVÁLENÝ A-TEAMEM!**
+  - Veškerá IC komunikace je povolena pouze skrze mechaniku hry (např. telegram), výjimkou je frakční discord **(Schválený AT)**
 * **OOC (Out of Character):** komunikace mimo roli (chat, Discord apod.)
 
 ---
