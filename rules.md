@@ -129,10 +129,10 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ## 11. Passive RP
 
-* **Svoje RP vždy přizpůsob svému okolí.** Pokud v tvém okolí není žádné NPC, tak tam prostě nikdo není. Vyjímkou jsou státní objekty a jejich okolíjako jsou sheriffské stanice, úřad guvernéra a vězení Sisika
+* Hráč vždy přizpůsobí RP svému okolí. Pokud v tvém okolí není žádné NPC, tak tam prostě nikdo není. Vyjímkou jsou státní objekty a jejich okolíjako jsou sheriffské stanice, úřad guvernéra a vězení Sisika
 * K nelegální aktivitě může dojít i když jsou v okolí NPC, ale přepadení by se mělo přizpůsobit dané situaci.
 * Střelba ve městě je povolena v případě, že máte pádný RP důvod. 
-* **Vypalování objektů** jako jsou domy či jiné budovy jsou povoleny s opodstatněným důvodem. Proto když se rozhodnete něco vypalít, vždy mějte připravené pádné argumenty a důvody, proč jste tak učinili.
+* **Vypalování objektů** jako jsou domy či jiné budovy jsou povoleny s opodstatněným důvodem. Proto když se rozhodnete něco vypalít, vždy mějte připravené pádné argumenty a důvody, proč tak chcete učinit.
 * Vodítka a výslechy NPC - je možné řešit skrze ticket a tak zjistit více informací a podrobností
 
 ---
@@ -142,7 +142,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Doba povinného RP zranění je stanovena na 30 minut od zranění
 * Je zakázáno účastnit se PVP akcí, ve kterých jste byli zraněni 
 * Při využívání příkazu `/try` automaticky souhlasíte s možností udělení SelfCK
-* Vždy jste povini přizpůsobit zranění a jejich ošetření, co nejblíže realitě a herní době (rok 1899)
+* Vždy jste povinni přizpůsobit zranění a jejich ošetření, co nejblíže realitě a herní době (rok 1899)
  - např. nebudete někoho resuscitovat, protože se jedná o praktiku objevenou až v 20. století
 
 ---
@@ -151,8 +151,8 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Zákaz odpojení se / respawnu při RP akci za účelem vyhnutí se trestu, ztráty majetku atp.
 * Po pádu / restartu serveru či vaší hry je nutné navázat na předešlou RP akci. Pokud se naskytl nějaký problém, ( jste na jiném místě, ...)  napište si report a počkejte na reakci člena AT. Není možné si sám RP akci skipovat.
-* V případě, že máte jakýkoli problém s připojením na server, je vaší poviností informovat hráče prostřednictvím OOC chatu na discordu
-* **Po jakékoli nelegální aktivitě se můžete ze serveru odpojit nejdříve za 1 hodinu od ukončení RP akce**
+* V případě, že máte jakýkoliv problém s připojením na server, je vaší poviností informovat hráče prostřednictvím OOC chatu na discordu
+* **Po jakékoliv nelegální aktivitě se můžete ze serveru odpojit nejdříve za 1 hodinu od ukončení RP akce**
 
 ---
 
@@ -161,6 +161,8 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Lze okrást pouze o to, co má hráč **u sebe nebo v batohu**
 * Zakázáno nutit hráče vybírat peníze z banky nebo přepisovat majetek
 * Maximální doba únosu je **1 hodina**
+* Po schválení hráče je možné únos prodloužit
+* Pokud je IC důvod k tomu hráče držet více jak 1 hodinu, je možné požádat o schválení AT.
 * Ukradené zbraně nelze přejmenovat ani měnit jejich rytiny
 * Je zakázáno rpit vlastní rytiny pokud si je skrze Gunsmitha neuděláte 
 * Po nelegální aktivitě si nesmíte 2 IRL dny **zdelšovat vousy/vlasy**, neplatí pro zkracování
