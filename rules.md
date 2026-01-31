@@ -170,7 +170,8 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
   - každé město je možné přepadnout jednou za 3 dny
   - přepadávající se nesmí vrátit do přepadnutého města jeden IRL den, platí pro celou skupinu účastnící se přepadu
 * Přepad města by měl být opodstatněný a ne jen za účelem zisku předmětů od hráčů
-* Je zakázáno přepadat hráče u obchodníků jako je kadeřník, krejčí nebo u doktora 
+* Je zakázáno přepadat hráče u obchodníků jako je kadeřník, krejčí nebo u doktora
+* Větší organizovaná skupina (5 a více hráčů) = frakce (Je potřeba ticket)
 
 ---
 
@@ -195,13 +196,13 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Každý hráč si vlastní CK schvaluje sám. Není možné do něj ostatní hráče nutit (ForceCK).
 * Hráč by si sám měl uvědomit kvalitu RP a učinit tak rozhodnutí, zda si CK uznat či nikoliv.
    
-* Pro členy nelegálnách skupin je CK automaticky povoleno od bosse frakce (ve své frakci).
+* Pro členy nelegálních skupin je CK automaticky povoleno od bosse frakce (ve své frakci).
   
-* **Jail CK** je automaticky schváleno v případě, že hráč má ve svém trestném rejstříku více než 150 let
+* **Jail CK** je automaticky schváleno v případě, že hráč má ve svém trestním rejstříku více než 150 let
 * **Jail CK** může být uděleno soudem
   
 * Po CK je návrat do stejné nelegální skupiny možný po 14 dnech, za novou postavu se s nimi nemůže navazovat ani spolupráce bez schválení ticketu. 
-* Po CK je návrat do legální frakce (Úřad sheriffa, guvernéra, Doktoři) možný ihned.
+* Po CK je návrat do legální frakce (Úřad sheriffa, guvernéra, Doktoři) možný po 7 dnech.
   
 * Pokud se cizí člen nelegální skupiny objeví na pozemku vaší nelegální skupiny, lze mu udělit CK bez schválení. (Nesmíte hráči forcovat jeho vnik na pozemek, např. přes carry ho odnesu na pozemek a udělím mu tak CK. Hráč musí sám vstoupit na pozemek)
   
@@ -231,6 +232,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Zabití hráče po PK či štvaní ostatních proti hráči, který vám PK udělil
 * Revenge Kill můžete provézt nejdříve za 1 hodinu po ukončení RP akce, pokud si osobu dokážete vybavit podle začátku RP před PK
+* Revenge kill se vztahuje i na šerifi po rp akci, kteří dostali PK (osobu by neměli ani lasovat)
 
 ---
 
@@ -267,6 +269,9 @@ Zakázáno:
 * ničení RP akcí, parodování postav
 * ustřelování hlav či končetin bez důvodu
 * nereálné chování nebo parkour
+* Běhání po střechách ve městě, bez pádného RP důvodu
+* Je zakázáno brát osoby od doktora bez předešlého RP a nebo před doerpením injuries
+* Je zakázáno vytvářet si postavy na krátké RP, za účelem trollu nebo jednodenního RP. (Výjimka jsou eventové postavy, které jsou na schválení AT)
 
 ---
 
