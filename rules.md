@@ -46,6 +46,9 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Jméno postavy musí být dobové a originální
 * Postava musí mít vlastní příběh, motivace a realistické cíle
 * Je zakázáno vytvářet postavy pouze za účelem pomsty nebo obcházení trestů
+* Je zakázáno mít současně vytvořené a aktivně hrané dvě postavy, z nichž jedna je legální a druhá nelegální.
+* Hráč si musí zvolit herní směr své postavy (legální nebo nelegální) a tento směr dodržovat.
+* Jakákoli výjimka je možná pouze po předchozím schválení Admin Teamu prostřednictvím ticketu.
 
 ---
 
@@ -64,7 +67,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * `/do` – popis stavu, prostředí nebo reakce (Do /do je přísně zakázáno lhát, ovlivňovat cizí RP a RP pocitů)
 * `/try` – náhodná odpověď ano/ne (pouze když výsledek není jasný)
 * `/doc` – časový odpočet pro delší činnosti
-* `/zde` a `/scenes` – zanechání stopy nebo vodítka na místě
+* `/voditko` – zanechání stopy nebo vodítka na místě
 
 ---
 
