@@ -47,7 +47,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Postava musí mít vlastní příběh, motivace a realistické cíle
 * Je zakázáno vytvářet postavy pouze za účelem pomsty nebo obcházení trestů
 * Je zakázáno mít současně vytvořené a aktivně hrané dvě postavy, z nichž jedna je legální a druhá nelegální.
-* Hráč si musí zvolit herní směr své postavy (legální nebo nelegální) a tento směr dodržovat.
+* Hráč si musí zvolit herní směr své postavy (legální, neutral, nelegální) a tento směr dodržovat.
 * Jakákoli výjimka je možná pouze po předchozím schválení Admin Teamu prostřednictvím ticketu.
 
 ---
@@ -146,7 +146,17 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Je zakázáno účastnit se PVP akcí, ve kterých jste byli zraněni 
 * Při využívání příkazu `/try` automaticky souhlasíte s možností udělení SelfCK
 * Vždy jste povinni přizpůsobit zranění a jejich ošetření, co nejblíže realitě a herní době (rok 1899)
- - např. nebudete někoho resuscitovat, protože se jedná o praktiku objevenou až v 20. století
+   - např. nebudete někoho resuscitovat, protože se jedná o praktiku objevenou až v 20. století
+   
+* Zákaz opuštění NPC doktora po RP akci se šerify nebo jinou státní složkou
+   - Pokud jste byli zraněni šerifem nebo jinou státní složkou a následně převezeni k místnímu NPC doktorovi k ošetření, je zakázáno opustit budovu. V takovém případě se bere, že je u vás po celou dobu přítomen šerif nebo příslušník státní složky, který vás hlídá.
+
+      Výjimka:
+      Tento zákaz neplatí v případě, že:
+      
+      * u vás nebyl žádný šerif ani jiná státní složka,
+      * neprobíhalo s vámi žádné RP ze strany státní složky,
+      * nebo jste se z dané RP akce dostali dostatečně daleko, aby vás s ní již nebylo možné spojovat.
 
 ---
 
