@@ -106,7 +106,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Zákaz provádění úkonů, které by postava nedokázala udělat
   - např. skákání s kládou na rameni
-  
+* Je také zakázáno rpit tzv. zbraň pod kabátem a při tom ji mít vybavenou
 ---
 
 ## 9. Fear RP + NVL
