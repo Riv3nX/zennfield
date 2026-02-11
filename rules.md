@@ -185,7 +185,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Přepad města by měl být opodstatněný a ne jen za účelem zisku předmětů od hráčů
 * Je zakázáno přepadat hráče u obchodníků jako je kadeřník, krejčí nebo u doktora
 * Větší organizovaná skupina (5 a více hráčů) = frakce (Je potřeba ticket)
-
+* Je přísně zakázáno odcizovat veškeré craftingové knihy (ranče, farmy, doktoři, indiáni, truhláři, kováři a další profese či frakce).
 ---
 
 ## 15. Zvířata a laso
