@@ -186,6 +186,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Je zakázáno přepadat hráče u obchodníků jako je kadeřník, krejčí nebo u doktora
 * Větší organizovaná skupina (5 a více hráčů) = frakce (Je potřeba ticket)
 * Je přísně zakázáno odcizovat veškeré craftingové knihy (ranče, farmy, doktoři, indiáni, truhláři, kováři a další profese či frakce).
+* Je přísně zakázáno zneužívat volání doktora za účelem okradení nebo zabití osoby, která přijela pomoci.
 ---
 
 ## 15. Zvířata a laso
@@ -263,6 +264,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Duel = PK, nikoli CK
 * Zaměřovače: Je zakázáno používat jakékoliv zaměřovače na zbraních, a to bez výjimky, včetně šerifů a armády.
 * **Combat Log** (odpojení ze situace) je přísně zakázán
+* Je zakázáno používat psy k útokům, zadržování, nahánění, zabíjení nebo jinému bojovému využití.
 
 ---
 
