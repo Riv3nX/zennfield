@@ -84,7 +84,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * IC spolupráce mezi frakcemi je povolena, a to i dlouhodobě.
 * Spolupráce musí mít logické RP opodstatnění.
 * Spolupráce nesmí vést k:
- -získání nepřiměřené výhody vůči ostatním frakcím,
+  - získání nepřiměřené výhody vůči ostatním frakcím,
   - ovládnutí klíčových herních mechanik, služeb nebo ekonomiky,
   - obcházení licenčních limitů,
   - narušení herní rovnováhy a férovosti.
