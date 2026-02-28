@@ -57,10 +57,10 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Frakce je organizovaná skupina minimálně 5 hráčů.
 * Založení frakce podléhá schválení přes ticket.
 * Frakce musí obsahovat:
-  - název frakce,
-  - hierarchii,
-  - základní lore,
-  - zaměření (legální / nelegální / neutrální).
+  - název frakce
+  - hierarchii
+  - základní lore
+  - zaměření (legální / nelegální / neutrální)
 
 * Admin Team si vyhrazuje právo frakci upravit nebo zamítnout.
 
@@ -73,10 +73,10 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Frakce může vlastnit více licencí, avšak tyto licence mezi sebou nesmí nijak souviset.
 * Licence nesmí být:
-  - personálně propojené,
-  - majetkově propojené,
-  - provozně propojené,
-  - ekonomicky propojené.
+  - personálně propojené
+  - majetkově propojené
+  - provozně propojené
+  - ekonomicky propojené
 
 * Členové frakcí mohou vykonávat i jiné zaměstnání nebo aktivity, nesmí však vlastnit, spoluvlastnit ani ovládat licence, které jsou přímo či nepřímo propojené s frakcí nebo jinými jejími licencemi.
 
