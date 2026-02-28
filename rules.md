@@ -62,7 +62,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
   - základní lore,
   - zaměření (legální / nelegální / neutrální).
 
-*Admin Team si vyhrazuje právo frakci upravit nebo zamítnout.
+* Admin Team si vyhrazuje právo frakci upravit nebo zamítnout.
 
 **2.2 Limity členů**
 * Maximální počet členů frakce je 12.
