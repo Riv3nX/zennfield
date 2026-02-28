@@ -52,7 +52,53 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 2. RP, OOC a IC
+## 2. Frakce
+**2.1 Založení frakce**
+* Frakce je organizovaná skupina minimálně 5 hráčů.
+* Založení frakce podléhá schválení přes ticket.
+* Frakce musí obsahovat:
+  - název frakce,
+  - hierarchii,
+  - základní lore,
+  - zaměření (legální / nelegální / neutrální).
+
+*Admin Team si vyhrazuje právo frakci upravit nebo zamítnout.
+
+**2.2 Limity členů**
+* Maximální počet členů frakce je 12.
+* Je zakázáno obcházet tento limit vytvářením propojených nebo tzv. sesterských frakcí.
+* Výjimku může udělit pouze Admin Team (např. eventová frakce).
+
+**2.3 Licence a frakční ekonomika**
+
+* Frakce může vlastnit více licencí, avšak tyto licence mezi sebou nesmí nijak souviset.
+* Licence nesmí být:
+  - personálně propojené,
+  - majetkově propojené,
+  - provozně propojené,
+  - ekonomicky propojené.
+
+* Členové frakcí mohou vykonávat i jiné zaměstnání nebo aktivity, nesmí však vlastnit, spoluvlastnit ani ovládat licence, které jsou přímo či nepřímo propojené s frakcí nebo jinými jejími licencemi.
+
+**2.4 IC spolupráce mezi frakcemi**
+* IC spolupráce mezi frakcemi je povolena, a to i dlouhodobě.
+* Spolupráce musí mít logické RP opodstatnění.
+* Spolupráce nesmí vést k:
+ -získání nepřiměřené výhody vůči ostatním frakcím,
+  - ovládnutí klíčových herních mechanik, služeb nebo ekonomiky,
+  - obcházení licenčních limitů,
+  - narušení herní rovnováhy a férovosti.
+
+* Admin Team si vyhrazuje právo spolupráci upravit, omezit nebo zakázat, pokud je v rozporu s herním balancem serveru.
+
+**2.5 Odpovědnost frakce**
+* Leader frakce odpovídá za chování svých členů.
+* Opakované porušování pravidel může vést k postihu celé frakce.
+* Admin Team může v krajním případě frakci rozpustit.
+
+---
+
+## 3. RP, OOC a IC
 
 * **RP (Roleplay):** hráč se vžívá do postavy, kterou vytvořil (Stáváte se herci)
 * **IC (In Character):** vše, co se odehrává ve světě a je součástí RP
@@ -61,7 +107,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 3. RP mechaniky
+## 4. RP mechaniky
 
 * `/me` – popis viditelné činnosti, která nejde provézt animací
 * `/do` – popis stavu, prostředí nebo reakce (Do /do je přísně zakázáno lhát, ovlivňovat cizí RP a RP pocitů)
@@ -71,7 +117,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 4. Metagaming a nabádání k Metagamingu
+## 5. Metagaming a nabádání k Metagamingu
 
 * Veškeré informace, které se dozvím **OOC a použiju je IC**, je bráno jako METAGAMING
 * Stream sniping taktéž spadá pod toto pravidlo
@@ -79,7 +125,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 5. Poznávání hráčů
+## 6. Poznávání hráčů
 
 * Poznat hráče pomocí hlasu není možné
 * Také není možné poznat hráče, který změní oblečení a vizáž, bez použití `/do` pro poznání
@@ -87,14 +133,14 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
   
 ---
 
-## 6. Mixing
+## 7. Mixing
 
 * **Mluvení či psanní OOC věcí do IC**
 * Používání slovníku, který neodpovídá herní době (rok 1899)
   
 ---
 
-## 7. Mixing mezi postavami
+## 8. Mixing mezi postavami
 
 * Předávání majetku, informací či znalostí z postavy na postavu
  - např. Nebudu jako indián perfektně rozumět zákonům na odborné úrovni
@@ -102,14 +148,14 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 8. Powergaming
+## 9. Powergaming
 
 * Zákaz provádění úkonů, které by postava nedokázala udělat
   - např. skákání s kládou na rameni
 * Je také zakázáno rpit tzv. zbraň pod kabátem a při tom ji mít vybavenou
 ---
 
-## 9. Fear RP + NVL
+## 10. Fear RP + NVL
 
 * Hraní strachu - je potřeba brát v potaz aktuální situaci a k ní přizpůsobit svoje RP `/me`, `/do` a mluvení (váš tón) ať už se jedná o vás či blízkou osobu.
 * Musíte dbát také na příběh své postavy a mít respekt k ozbrojeným složkám.
@@ -117,7 +163,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 10. Gross RP
+## 11. Gross RP
 
 * Jedná se o "nechutný roleplay"
 * Patří sem: mučení, kanibalismus, sexuální obtěžování, znásilnění, pedofilie, brutální rasistické projevy.
@@ -130,7 +176,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 11. Passive RP
+## 12. Passive RP
 
 * Hráč vždy přizpůsobí RP svému okolí. Pokud v tvém okolí není žádné NPC, tak tam prostě nikdo není. Vyjímkou jsou státní objekty a jejich okolíjako jsou sheriffské stanice, úřad guvernéra a vězení Sisika
 * K nelegální aktivitě může dojít i když jsou v okolí NPC, ale přepadení by se mělo přizpůsobit dané situaci.
@@ -140,7 +186,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 12. Non-RP Injuries
+## 13. Non-RP Injuries
 
 * Doba povinného RP zranění je stanovena na 30 minut od zranění
 * Je zakázáno účastnit se PVP akcí, ve kterých jste byli zraněni 
@@ -160,7 +206,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 13. Combat log
+## 14. Combat log
 
 * Zákaz odpojení se / respawnu při RP akci za účelem vyhnutí se trestu, ztráty majetku atp.
 * Po pádu / restartu serveru či vaší hry je nutné navázat na předešlou RP akci. Pokud se naskytl nějaký problém, ( jste na jiném místě, ...)  napište si report a počkejte na reakci člena AT. Není možné si sám RP akci skipovat.
@@ -169,7 +215,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 14. Loupeže, únosy a nelegální činnost
+## 15. Loupeže, únosy a nelegální činnost
 
 * Lze okrást pouze o to, co má hráč **u sebe nebo v batohu**
 * Zakázáno nutit hráče vybírat peníze z banky nebo přepisovat majetek
@@ -189,7 +235,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Je přísně zakázáno zneužívat volání doktora za účelem okradení nebo zabití osoby, která přijela pomoci.
 ---
 
-## 15. Zvířata a laso
+## 16. Zvířata a laso
 
 * Zabíjení koní nebo domácích zvířat bez RP důvodu je zakázáno
 * Je zakázáno lasovat bez předchozí interakce
@@ -197,13 +243,13 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 16. Telegram
+## 17. Telegram
 
 * Psaní telegramů je povoleno pouze skrze IN-Game mechaniky, telegramy psané skrze discord či skrze jinou komunikační platformu jsou brány jako **Metagaming**
 
 ---
 
-## 17. CK (Character Kill)
+## 18. CK (Character Kill)
 
 * Trvalé usmrcení postavy
 * Po provedení CK je nutné nahlásit CK do Support ticketu s lokaci místa činu s fotografii, s časem, způsobem a příčinou smrti, jak se s tělem manipulovalo a zažádat o výmaz postavy.
@@ -230,7 +276,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 18. PK (Player Kill)
+## 19. PK (Player Kill)
 
 * Aktuální zabití postavy, postava je vážně zraněna a musí se nechat ošetřit.
 * Do PK se můžete dostat dvěma způsoby:
@@ -242,7 +288,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 19. Revenge Kill
+## 20. Revenge Kill
 
 * Zabití hráče po PK či štvaní ostatních proti hráči, který vám PK udělil
 * Revenge Kill můžete provézt nejdříve za 1 hodinu po ukončení RP akce, pokud si osobu dokážete vybavit podle začátku RP před PK
@@ -250,14 +296,14 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 20. Banditská města a osady
+## 21. Banditská města a osady
 
 * Banditská města: **Thieve's Landing** a **Van Horn** – rizikové zóny
 * Obsazení osad a banditských měst musí být schváleno přes ticket
 
 ---
 
-## 21. PvP a přestřelky
+## 22. PvP a přestřelky
 
 * Cílem PvP je **RP, ne rychlé zabíjení**
 * Před střelbou musí proběhnout interakce
@@ -268,14 +314,14 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 22. Korupce
+## 23. Korupce
 
 * Jakákoli korupce ve státních složkách nebo na úřednických postech je naprosto zakázána
 * Je možné požádat o korupci prostřednictvím ticketu
 
 ---
 
-## 23. Fail, Troll, KOS a Trash RP
+## 24. Fail, Troll, KOS a Trash RP
 
 Zakázáno:
 
@@ -290,7 +336,7 @@ Zakázáno:
 
 ---
 
-## 24. Streamy a nahrávání
+## 25. Streamy a nahrávání
 
 * Streameři musí dodržovat stejná pravidla jako ostatní hráči
 * Jsou zodpovědní za svůj chat a nesmí podporovat metagaming
@@ -302,7 +348,7 @@ Zakázáno:
 
 ---
 
-## 25. Zakázané modování hry
+## 26. Zakázané modování hry
 
 🚫 **Nulová tolerance pro podvody a neférové výhody**
 
@@ -320,7 +366,7 @@ Zakázáno je i **obcházení trestů nebo zakládání nových účtů po banu*
 
 ---
 
-## 26. Závěr
+## 27. Závěr
 
 * **Admin Team má vždy poslední slovo**
 * Hráči jsou povinni hlásit bugy a porušení pravidel přes ticket
