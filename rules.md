@@ -297,6 +297,8 @@ Zakázáno:
 * Během řešení s AT musí **skrýt overlay a vypnout stream**
 * Nahrávání RP se doporučuje jako důkazní materiál
 * AT může kdykoliv požádat o záznam
+* Je přísně zakázáno nahrávat, pořizovat jakékoliv záznamy, streamovat nebo jinak archivovat řešení situací s A-Teamem, a to hlasově, obrazově, formou screenshotů i textových logů.Tento zákaz platí pro veškeré řešení reportů, ticketů, stížností, vysvětlování situací, trestů i interní komunikaci s AT.
+* Jakékoliv šíření, zveřejňování nebo uchovávání těchto záznamů je považováno za hrubé porušení pravidel a může vést k přísnému trestu až po permanentní ban.
 
 ---
 
