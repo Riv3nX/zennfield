@@ -152,6 +152,8 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Zákaz provádění úkonů, které by postava nedokázala udělat
   - např. skákání s kládou na rameni
+* Malé a fyzicky slabé postavy musí být RP přiměřeně slabé.
+* Jakékoliv RP přehánění síly, výdrže nebo fyzických schopností, které je u dané postavy nerealistické, je považováno za powergaming.
 * Je také zakázáno rpit tzv. zbraň pod kabátem a při tom ji mít vybavenou
 ---
 
