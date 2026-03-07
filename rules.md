@@ -65,7 +65,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Admin Team si vyhrazuje právo frakci upravit nebo zamítnout.
 
 **2.2 Limity členů**
-* Maximální počet členů frakce je 12.
+* Maximální počet členů frakce je 15.
 * Je zakázáno obcházet tento limit vytvářením propojených nebo tzv. sesterských frakcí.
 * Výjimku může udělit pouze Admin Team (např. eventová frakce).
 
