@@ -183,7 +183,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Hráč vždy přizpůsobí RP svému okolí. Pokud v tvém okolí není žádné NPC, tak tam prostě nikdo není. Vyjímkou jsou státní objekty a jejich okolíjako jsou sheriffské stanice, úřad guvernéra a vězení Sisika
 * K nelegální aktivitě může dojít i když jsou v okolí NPC, ale přepadení by se mělo přizpůsobit dané situaci.
 * Střelba ve městě je povolena v případě, že máte pádný RP důvod. 
-* **Vypalování objektů** jako jsou domy či jiné budovy jsou povoleny s opodstatněným důvodem. Proto když se rozhodnete něco vypalít, vždy mějte připravené pádné argumenty a důvody, proč tak chcete učinit.
+* **Vypalování objektů** jako jsou domy či jiné budovy, je povoleno pouze v odůvodněných případech. Pokud se rozhodnete něco vypálit, musíte mít připravené pádné argumenty a jasné důvody, proč je tento krok nezbytný. Takové jednání zároveň podléhá předchozímu schválení prostřednictvím **ticketu** od A-Teamu. Před samotným provedením akce musí být **vytvořen a schválen** příslušný ticket, na jehož základě je možné daný úkon realizovat.
 * Vodítka a výslechy NPC - je možné řešit skrze ticket a tak zjistit více informací a podrobností
 
 ---
