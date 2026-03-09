@@ -227,7 +227,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Ukradené zbraně nelze přejmenovat ani měnit jejich rytiny
   - je zakázáno sundat sériové číslo z ukradených zbraní dříve, jak po 7 dnech od ukradení a jinak než scriptem
 * Je zakázáno rpit vlastní rytiny pokud si je skrze Gunsmitha neuděláte 
-* Po nelegální aktivitě si nesmíte 2 IRL dny **zdelšovat vousy/vlasy**, neplatí pro zkracování
+* Po nelegální aktivitě si nesmíte 2 IRL dny **zdelšovat vousy/vlasy**, neplatí pro zkracování, také je zakázáno **měnit barvu vlasů/vousů**
 * Minimální počet hráčů pro přepad města je 5
   - každé město je možné přepadnout jednou za 3 dny
   - přepadávající se nesmí vrátit do přepadnutého města jeden IRL den, platí pro celou skupinu účastnící se přepadu
