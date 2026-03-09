@@ -225,6 +225,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Po schválení hráče je možné únos prodloužit
 * Pokud je IC důvod k tomu hráče držet více jak 1 hodinu, je možné požádat o schválení AT.
 * Ukradené zbraně nelze přejmenovat ani měnit jejich rytiny
+  - je zakázáno sundat sériové číslo z ukradených zbraní dříve, jak po 7 dnech od ukradení a jinak než scriptem
 * Je zakázáno rpit vlastní rytiny pokud si je skrze Gunsmitha neuděláte 
 * Po nelegální aktivitě si nesmíte 2 IRL dny **zdelšovat vousy/vlasy**, neplatí pro zkracování
 * Minimální počet hráčů pro přepad města je 5
