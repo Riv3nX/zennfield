@@ -88,8 +88,9 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
   - ovládnutí klíčových herních mechanik, služeb nebo ekonomiky,
   - obcházení licenčních limitů,
   - narušení herní rovnováhy a férovosti.
-
-* Admin Team si vyhrazuje právo spolupráci upravit, omezit nebo zakázat, pokud je v rozporu s herním balancem serveru.
+  
+* Tato IC spolupráce musí být vždy předem schválena v ticketu
+* Admin Team si dále vyhrazuje právo spolupráci upravit, omezit nebo zakázat, pokud je v rozporu s herním balancem serveru.
 
 **2.5 Odpovědnost frakce**
 * Leader frakce odpovídá za chování svých členů.
