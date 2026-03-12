@@ -265,7 +265,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * **Jail CK** je automaticky schváleno v případě, že hráč má ve svém trestním rejstříku více než 150 let
 * **Jail CK** může být uděleno soudem
   
-* Po CK je návrat do stejné nelegální skupiny možný po 14 dnech, za novou postavu se s nimi nemůže navazovat ani spolupráce bez schválení ticketu. 
+* Po CK je návrat do stejné nelegální skupiny či do frakcí s ní spojené je možný po 14 dnech, za novou postavu se s nimi nemůže navazovat ani spolupráce bez schválení ticketu. 
 * Po CK je návrat do legální frakce (Úřad sheriffa, guvernéra, Doktoři) možný po 7 dnech.
   
 * Pokud se cizí člen nelegální skupiny objeví na pozemku vaší nelegální skupiny, lze mu udělit CK bez schválení. (Nesmíte hráči forcovat jeho vnik na pozemek, např. přes carry ho odnesu na pozemek a udělím mu tak CK. Hráč musí sám vstoupit na pozemek)
