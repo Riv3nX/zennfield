@@ -96,7 +96,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Leader frakce odpovídá za chování svých členů.
 * Opakované porušování pravidel může vést k postihu celé frakce.
 * Admin Team může v krajním případě frakci rozpustit.
-
+* Frakční discord podléhá pravidlům serveru
 ---
 
 ## 3. RP, OOC a IC
@@ -264,6 +264,8 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
   
 * **Jail CK** je automaticky schváleno v případě, že hráč má ve svém trestním rejstříku více než 150 let
 * **Jail CK** může být uděleno soudem
+
+* Je možnost **Situačního CK**, které je možné žádat prostřednictvím reportu případně ticketu a schvaluje ho A-Team
   
 * Po CK je návrat do stejné nelegální skupiny či do frakcí s ní spojené je možný po 14 dnech, za novou postavu se s nimi nemůže navazovat ani spolupráce bez schválení ticketu. 
 * Po CK je návrat do legální frakce (Úřad sheriffa, guvernéra, Doktoři) možný po 7 dnech.
