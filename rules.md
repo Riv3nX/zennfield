@@ -156,9 +156,19 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Malé a fyzicky slabé postavy musí být RP přiměřeně slabé.
 * Jakékoliv RP přehánění síly, výdrže nebo fyzických schopností, které je u dané postavy nerealistické, je považováno za powergaming.
 * Je také zakázáno rpit tzv. zbraň pod kabátem a při tom ji mít vybavenou
+
 ---
 
-## 10. Fear RP + NVL
+## 10. Pravidlo inventáře
+
+* Vše, co má hráč u sebe, se bere jako že to skutečně má u sebe.
+  - Není možné rpit odložení věcí bez odebrání z inventáře.
+  - Není možné rpit odložení dlouhé zbraňě na koni
+* Vyjímka: Státní složky vám mohou přes `/me` odebrat předměty (např. zbraně). V takovém případě tyto věci u sebe dále nemůžete rpit.
+
+---
+
+## 11. Fear RP + NVL
 
 * Hraní strachu - je potřeba brát v potaz aktuální situaci a k ní přizpůsobit svoje RP `/me`, `/do` a mluvení (váš tón) ať už se jedná o vás či blízkou osobu.
 * Musíte dbát také na příběh své postavy a mít respekt k ozbrojeným složkám.
@@ -166,7 +176,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 11. Gross RP
+## 12. Gross RP
 
 * Jedná se o "nechutný roleplay"
 * Patří sem: mučení, kanibalismus, sexuální obtěžování, znásilnění, pedofilie, brutální rasistické projevy.
@@ -179,7 +189,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 12. Passive RP
+## 13. Passive RP
 
 * Hráč vždy přizpůsobí RP svému okolí. Pokud v tvém okolí není žádné NPC, tak tam prostě nikdo není. Vyjímkou jsou státní objekty a jejich okolíjako jsou sheriffské stanice, úřad guvernéra a vězení Sisika
 * K nelegální aktivitě může dojít i když jsou v okolí NPC, ale přepadení by se mělo přizpůsobit dané situaci.
@@ -189,7 +199,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 13. Non-RP Injuries
+## 14. Non-RP Injuries
 
 * Doba povinného RP zranění je stanovena na 30 minut od zranění
 * Je zakázáno účastnit se PVP akcí, ve kterých jste byli zraněni 
@@ -209,7 +219,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 14. Combat log
+## 15. Combat log
 
 * Zákaz odpojení se / respawnu při RP akci za účelem vyhnutí se trestu, ztráty majetku atp.
 * Po pádu / restartu serveru či vaší hry je nutné navázat na předešlou RP akci. Pokud se naskytl nějaký problém, ( jste na jiném místě, ...)  napište si report a počkejte na reakci člena AT. Není možné si sám RP akci skipovat.
@@ -218,7 +228,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 15. Loupeže, únosy a nelegální činnost
+## 16. Loupeže, únosy a nelegální činnost
 
 * Lze okrást pouze o to, co má hráč **u sebe nebo v batohu**
 * Zakázáno nutit hráče vybírat peníze z banky nebo přepisovat majetek
@@ -239,7 +249,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Je přísně zakázáno zneužívat volání doktora za účelem okradení nebo zabití osoby, která přijela pomoci.
 ---
 
-## 16. Zvířata a laso
+## 17. Zvířata a laso
 
 * Zabíjení koní nebo domácích zvířat bez RP důvodu je zakázáno
 * Je zakázáno lasovat bez předchozí interakce
@@ -247,13 +257,13 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 17. Telegram
+## 18. Telegram
 
 * Psaní telegramů je povoleno pouze skrze IN-Game mechaniky, telegramy psané skrze discord či skrze jinou komunikační platformu jsou brány jako **Metagaming**
 
 ---
 
-## 18. CK (Character Kill)
+## 19. CK (Character Kill)
 
 * Trvalé usmrcení postavy
 * Po provedení CK je nutné nahlásit CK do Support ticketu s lokaci místa činu s fotografii, s časem, způsobem a příčinou smrti, jak se s tělem manipulovalo a zažádat o výmaz postavy.
@@ -282,7 +292,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 19. PK (Player Kill)
+## 20. PK (Player Kill)
 
 * Aktuální zabití postavy, postava je vážně zraněna a musí se nechat ošetřit.
 * Do PK se můžete dostat dvěma způsoby:
@@ -294,7 +304,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 20. Revenge Kill
+## 21. Revenge Kill
 
 * Zabití hráče po PK či štvaní ostatních proti hráči, který vám PK udělil
 * Revenge Kill můžete provézt nejdříve za 1 hodinu po ukončení RP akce, pokud si osobu dokážete vybavit podle začátku RP před PK
@@ -302,14 +312,14 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 21. Banditská města a osady
+## 22. Banditská města a osady
 
 * Banditská města: **Thieve's Landing** a **Van Horn** – rizikové zóny
 * Obsazení osad a banditských měst musí být schváleno přes ticket
 
 ---
 
-## 22. PvP a přestřelky
+## 23. PvP a přestřelky
 
 * Cílem PvP je **RP, ne rychlé zabíjení**
 * Před střelbou musí proběhnout interakce
@@ -320,14 +330,14 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 ---
 
-## 23. Korupce
+## 24. Korupce
 
 * Jakákoli korupce ve státních složkách nebo na úřednických postech je naprosto zakázána
 * Je možné požádat o korupci prostřednictvím ticketu
 
 ---
 
-## 24. Fail, Troll, KOS a Trash RP
+## 25. Fail, Troll, KOS a Trash RP
 
 Zakázáno:
 
@@ -342,7 +352,7 @@ Zakázáno:
 
 ---
 
-## 25. Streamy a nahrávání
+## 26. Streamy a nahrávání
 
 * Streameři musí dodržovat stejná pravidla jako ostatní hráči
 * Jsou zodpovědní za svůj chat a nesmí podporovat metagaming
@@ -354,7 +364,7 @@ Zakázáno:
 
 ---
 
-## 26. Zakázané modování hry
+## 27. Zakázané modování hry
 
 🚫 **Nulová tolerance pro podvody a neférové výhody**
 
@@ -372,7 +382,7 @@ Zakázáno je i **obcházení trestů nebo zakládání nových účtů po banu*
 
 ---
 
-## 27. Závěr
+## 28. Závěr
 
 * **Admin Team má vždy poslední slovo**
 * Hráči jsou povinni hlásit bugy a porušení pravidel přes ticket
