@@ -265,6 +265,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Maximální doba držení osoby v cele je **3 hodiny**
 * Po dobu držení osoby v cele musí probíhat odpovídající navazující RP (výslech, sepsání, čekání na transport, nebo jiné přiměřené úkony)
 * Toto omezení neplatí v případě, že osoba odmítne trest a čeká na soud. V takovém případě není doba držení omezena
+* Pokud je osoba držena v cele delší dobu z pádných IC důvodů, musí jí být tato skutečnost přiměřeně sdělena, a to buď IC cestou, nebo v případě dotazu hráče prostřednictvím A-Teamu.
 * V případě, že státní složka potřebuje prodloužit dobu držení nad 3 hodiny, je povinna vytvořit **ticket** na Ticket Discordu a předložit důvody, proč bude osoba držena déle. A-Team nezaručuje vyhovění žádosti
 * Je zakázáno držet hráče v cele pasivně bez odpovídající RP interakce pouze za účelem omezení jeho hry
 * Pokud státní složka s drženou osobou neodehrává odpovídající navazující RP nebo ji bezdůvodně ponechá v cele bez interakce, má hráč právo situaci řešit prostřednictvím **reportu** nebo **ticketu** a doložit důkazní materiál k posouzení situace A-Teamem
