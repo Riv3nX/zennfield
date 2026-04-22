@@ -27,6 +27,7 @@ Zakázáno je také **provokovat nebo trollit hráče** s cílem vyvolat OOC kon
 
 Každý hráč má povinnost chovat se s respektem a přispívat k dobré atmosféře projektu.
 Každý hráč **musí být členem oficiálního Discordu ZENNFIELD**.
+Hráči jsou povinni mít svůj herní nick nastavený in-game v launcheru tak, aby byl shodný nebo jednoznačně dohledatelný vůči jejich Discord účtu. Záměrně matoucí nebo odlišné označení je zakázáno.
 
 Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, emotikony, reklamy, vulgarismy ani nevhodné výrazy**.
 
@@ -46,56 +47,63 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Jméno postavy musí být dobové a originální
 * Postava musí mít vlastní příběh, motivace a realistické cíle
 * Je zakázáno vytvářet postavy pouze za účelem pomsty nebo obcházení trestů
-* Je zakázáno mít současně vytvořené a aktivně hrané dvě postavy, z nichž jedna je legální a druhá nelegální.
-* Hráč si musí zvolit herní směr své postavy (legální, neutral, nelegální) a tento směr dodržovat.
-* Jakákoli výjimka je možná pouze po předchozím schválení Admin Teamu prostřednictvím ticketu.
+* Hráč si musí zvolit herní směr své postavy (legální, neutral, nelegální) a tento směr dodržovat
+* Každá postava musí být vedena jako samostatná osobnost s vlastním příběhem, motivací, vazbami a následky svého jednání
+
+**1.1 Multichar**
+* Hráč může vlastnit a aktivně hrát více postav pouze za předpokladu, že mezi nimi nedochází k žádnému přímému ani nepřímému propojení, které by vedlo k výhodě v RP
+* Je zakázáno předávat mezi vlastními postavami informace, kontakty, majetek, znalosti, vazby, lokace, obchodní vztahy nebo jakékoli jiné výhody, a to přímo i nepřímo
+* Pokud má hráč jednu postavu u státních složek, je přísně zakázáno provozovat na jiné postavě jakoukoli nelegální činnost
+* Pokud hráč vlastní více postav zaměřených na nelegální RP, tyto postavy nesmí být nijak IC propojené. Nesmí spolupracovat, obchodovat, být ve vzájemném konfliktu za účelem získání RP výhody ani působit ve skupinách, frakcích či strukturách, které jsou mezi sebou personálně, obchodně nebo mocensky propojené
+* Je zakázáno využívat druhou postavu k vyhýbání se RP na první postavě, tím je myšleno například vyšetřování, konflikty či jiné následky předchozího RP
+* Jakákoli výjimka je možná pouze po předchozím schválení A-Teamu prostřednictvím **ticketu**
 
 ---
 
 ## 2. Frakce
 **2.1 Založení frakce**
-* Frakce je organizovaná skupina minimálně 5 hráčů.
-* Založení frakce podléhá schválení přes ticket.
+* Frakce je organizovaná skupina minimálně 5 hráčů
+* Založení frakce podléhá schválení přes ticket
 * Frakce musí obsahovat:
   - název frakce
   - hierarchii
   - základní lore
   - zaměření (legální / nelegální / neutrální)
 
-* Admin Team si vyhrazuje právo frakci upravit nebo zamítnout.
+* Admin Team si vyhrazuje právo frakci upravit nebo zamítnout
 
 **2.2 Limity členů**
-* Maximální počet členů frakce je 15.
-* Je zakázáno obcházet tento limit vytvářením propojených nebo tzv. sesterských frakcí.
-* Výjimku může udělit pouze Admin Team (např. eventová frakce).
+* Maximální počet členů frakce je 15
+* Je zakázáno obcházet tento limit vytvářením propojených nebo tzv. sesterských frakcí
+* Výjimku může udělit pouze Admin Team (např. eventová frakce)
 
 **2.3 Licence a frakční ekonomika**
 
-* Frakce může vlastnit více licencí, avšak tyto licence mezi sebou nesmí nijak souviset.
+* Frakce může vlastnit více licencí, avšak tyto licence mezi sebou nesmí nijak souviset
 * Licence nesmí být:
   - personálně propojené
   - majetkově propojené
   - provozně propojené
   - ekonomicky propojené
 
-* Členové frakcí mohou vykonávat i jiné zaměstnání nebo aktivity, nesmí však vlastnit, spoluvlastnit ani ovládat licence, které jsou přímo či nepřímo propojené s frakcí nebo jinými jejími licencemi.
+* Členové frakcí mohou vykonávat i jiné zaměstnání nebo aktivity, nesmí však vlastnit, spoluvlastnit ani ovládat licence, které jsou přímo či nepřímo propojené s frakcí nebo jinými jejími licencemi
 
 **2.4 IC spolupráce mezi frakcemi**
-* IC spolupráce mezi frakcemi je povolena, a to i dlouhodobě.
-* Spolupráce musí mít logické RP opodstatnění.
+* IC spolupráce mezi frakcemi je povolena, a to i dlouhodobě
+* Spolupráce musí mít logické RP opodstatnění
 * Spolupráce nesmí vést k:
-  - získání nepřiměřené výhody vůči ostatním frakcím,
-  - ovládnutí klíčových herních mechanik, služeb nebo ekonomiky,
-  - obcházení licenčních limitů,
-  - narušení herní rovnováhy a férovosti.
+  - získání nepřiměřené výhody vůči ostatním frakcím
+  - ovládnutí klíčových herních mechanik, služeb nebo ekonomiky
+  - obcházení licenčních limitů
+  - narušení herní rovnováhy a férovosti
   
 * Tato IC spolupráce musí být vždy předem schválena v ticketu
-* Admin Team si dále vyhrazuje právo spolupráci upravit, omezit nebo zakázat, pokud je v rozporu s herním balancem serveru.
+* Admin Team si dále vyhrazuje právo spolupráci upravit, omezit nebo zakázat, pokud je v rozporu s herním balancem serveru
 
 **2.5 Odpovědnost frakce**
-* Leader frakce odpovídá za chování svých členů.
-* Opakované porušování pravidel může vést k postihu celé frakce.
-* Admin Team může v krajním případě frakci rozpustit.
+* Leader frakce odpovídá za chování svých členů
+* Opakované porušování pravidel může vést k postihu celé frakce
+* Admin Team může v krajním případě frakci rozpustit
 * Frakční discord podléhá pravidlům serveru
 ---
 
@@ -123,6 +131,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Veškeré informace, které se dozvím **OOC a použiju je IC**, je bráno jako METAGAMING
 * Stream sniping taktéž spadá pod toto pravidlo
 * Jakékoli vypisování OOC informací jinému hráči, který by je mohl jakkoli byť jen podvědomě využít je bráno jako porušení pravidla
+* Jakékoliv podezření na metagaming se řeší výhradně přes ticket nebo report na A-Team. Je zakázáno tyto situace řešit IC cestou nebo je využívat v RP jako náhradu za OOC řešení
 
 ---
 
@@ -153,25 +162,25 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Zákaz provádění úkonů, které by postava nedokázala udělat
   - např. skákání s kládou na rameni
-* Malé a fyzicky slabé postavy musí být RP přiměřeně slabé.
-* Jakékoliv RP přehánění síly, výdrže nebo fyzických schopností, které je u dané postavy nerealistické, je považováno za powergaming.
+* Malé a fyzicky slabé postavy musí být RP přiměřeně slabé
+* Jakékoliv RP přehánění síly, výdrže nebo fyzických schopností, které je u dané postavy nerealistické, je považováno za powergaming
 * Je také zakázáno rpit tzv. zbraň pod kabátem a při tom ji mít vybavenou
 
 ---
 
 ## 10. Pravidlo inventáře
 
-* Vše, co má hráč u sebe, se bere jako že to skutečně má u sebe.
-  - Není možné rpit odložení věcí bez odebrání z inventáře.
+* Vše, co má hráč u sebe, se bere jako že to skutečně má u sebe
+  - Není možné rpit odložení věcí bez odebrání z inventáře
   - Není možné rpit odložení dlouhé zbraňě na koni
-* Vyjímka: Státní složky vám mohou přes `/me` odebrat předměty (např. zbraně). V takovém případě tyto věci u sebe dále nemůžete rpit.
+* Vyjímka: Státní složky vám mohou přes `/me` odebrat předměty (např. zbraně). V takovém případě tyto věci u sebe dále nemůžete rpit
 
 ---
 
 ## 11. Fear RP + NVL
 
 * Hraní strachu - je potřeba brát v potaz aktuální situaci a k ní přizpůsobit svoje RP `/me`, `/do` a mluvení (váš tón) ať už se jedná o vás či blízkou osobu.
-* Musíte dbát také na příběh své postavy a mít respekt k ozbrojeným složkám.
+* Musíte dbát také na příběh své postavy a mít respekt k ozbrojeným složkám
 * Toto pravidlo se netýká nelegálních skupin, které budou v danou chvíli v konfliktu s ozbrojenými složkami
 
 ---
@@ -179,23 +188,27 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 ## 12. Gross RP
 
 * Jedná se o "nechutný roleplay"
-* Patří sem: mučení, kanibalismus, sexuální obtěžování, znásilnění, pedofilie, brutální rasistické projevy.
-* Vyžaduje se **souhlas všech zúčastněných v LOOC**.
-* Každý může svůj souhlas kdykoliv odvolat a akce musí být **okamžitě ukončena**. Neplatí pro Indiánská území.
-* Pokud se do RP přidá **nový hráč**, gross rp musí být **pozastaveno** a znovu schváleno všemi zúčastněnými.
-* Při neoprávněném vstupu na **indiánské území** je automaticky schválen gross.
+* Patří sem: mučení, kanibalismus, sexuální obtěžování, znásilnění, pedofilie, brutální rasistické projevy
+* Vyžaduje se **souhlas všech zúčastněných v LOOC**
+* Každý může svůj souhlas kdykoliv odvolat a akce musí být **okamžitě ukončena**. Neplatí pro Indiánská území
+* Pokud se do RP přidá **nový hráč**, gross rp musí být **pozastaveno** a znovu schváleno všemi zúčastněnými
+* Při neoprávněném vstupu na **indiánské území** je automaticky schválen gross
 * Je zakázáno mučit hráče tak, aby museli rpit trvalé následky (odřezávání končetin, vypalování znaků) – výjimkou je **CK**
-* Je zakázáno hráče nutit do hlasového RP během grossu, pokud hráč sám nechce.
+* Je zakázáno hráče nutit do hlasového RP během grossu, pokud hráč sám nechce
 
 ---
 
 ## 13. Passive RP
 
 * Hráč vždy přizpůsobí RP svému okolí. Pokud v tvém okolí není žádné NPC, tak tam prostě nikdo není. Vyjímkou jsou státní objekty a jejich okolíjako jsou sheriffské stanice, úřad guvernéra a vězení Sisika
-* K nelegální aktivitě může dojít i když jsou v okolí NPC, ale přepadení by se mělo přizpůsobit dané situaci.
-* Střelba ve městě je povolena v případě, že máte pádný RP důvod. 
-* **Vypalování objektů** jako jsou domy či jiné budovy, je povoleno pouze v odůvodněných případech. Pokud se rozhodnete něco vypálit, musíte mít připravené pádné argumenty a jasné důvody, proč je tento krok nezbytný. Takové jednání zároveň podléhá předchozímu schválení prostřednictvím **ticketu** od A-Teamu. Před samotným provedením akce musí být **vytvořen a schválen** příslušný ticket, na jehož základě je možné daný úkon realizovat.
+* K nelegální aktivitě může dojít i když jsou v okolí NPC, ale přepadení by se mělo přizpůsobit dané situaci
+* Střelba ve městě je povolena v případě, že máte pádný RP důvod
+* **Vypalování objektů** jako jsou domy či jiné budovy, je povoleno pouze v odůvodněných případech. Pokud se rozhodnete něco vypálit, musíte mít připravené pádné argumenty a jasné důvody, proč je tento krok nezbytný. Takové jednání zároveň podléhá předchozímu schválení prostřednictvím **ticketu** od A-Teamu. Před samotným provedením akce musí být **vytvořen a schválen** příslušný ticket, na jehož základě je možné daný úkon realizovat
 * Vodítka a výslechy NPC - je možné řešit skrze ticket a tak zjistit více informací a podrobností
+
+**13.1 Komunikace skrze NPC**
+* Jakýkoliv způsob komunikace skrze NPC za účelem předání informace, odkazu nebo své polohy (např. poslíček, vzkaz, doručení zprávy) musí být důkladně odehrán přes /do a hráč musí být fyzicky přítomen u daného NPC.
+* Není možné využívat NPC pouze jako zkratku pro okamžité nebo zjednodušené předávání informací bez odpovídajícího RP
 
 ---
 
@@ -208,21 +221,21 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
    - např. nebudete někoho resuscitovat, protože se jedná o praktiku objevenou až v 20. století
    
 * Zákaz opuštění NPC doktora po RP akci se šerify nebo jinou státní složkou
-   - Pokud jste byli zraněni šerifem nebo jinou státní složkou a následně převezeni k místnímu NPC doktorovi k ošetření, je zakázáno opustit budovu. V takovém případě se bere, že je u vás po celou dobu přítomen šerif nebo příslušník státní složky, který vás hlídá.
+   - Pokud jste byli zraněni šerifem nebo jinou státní složkou a následně převezeni k místnímu NPC doktorovi k ošetření, je zakázáno opustit budovu. V takovém případě se bere, že je u vás po celou dobu přítomen šerif nebo příslušník státní složky, který vás hlídá
 
       Výjimka:
       Tento zákaz neplatí v případě, že:
       
-      * u vás nebyl žádný šerif ani jiná státní složka,
-      * neprobíhalo s vámi žádné RP ze strany státní složky,
-      * nebo jste se z dané RP akce dostali dostatečně daleko, aby vás s ní již nebylo možné spojovat.
+      * u vás nebyl žádný šerif ani jiná státní složka
+      * neprobíhalo s vámi žádné RP ze strany státní složky
+      * nebo jste se z dané RP akce dostali dostatečně daleko, aby vás s ní již nebylo možné spojovat
 
 ---
 
 ## 15. Combat log
 
-* Zákaz odpojení se / respawnu při RP akci za účelem vyhnutí se trestu, ztráty majetku atp.
-* Po pádu / restartu serveru či vaší hry je nutné navázat na předešlou RP akci. Pokud se naskytl nějaký problém, ( jste na jiném místě, ...)  napište si report a počkejte na reakci člena AT. Není možné si sám RP akci skipovat.
+* Zákaz odpojení se / respawnu při RP akci za účelem vyhnutí se trestu, ztráty majetku atp
+* Po pádu / restartu serveru či vaší hry je nutné navázat na předešlou RP akci. Pokud se naskytl nějaký problém, ( jste na jiném místě, ...)  napište si report a počkejte na reakci člena AT. Není možné si sám RP akci skipovat
 * V případě, že máte jakýkoliv problém s připojením na server, je vaší poviností informovat hráče prostřednictvím OOC chatu na discordu
 * **Po jakékoliv nelegální aktivitě se můžete ze serveru odpojit nejdříve za 1 hodinu od ukončení RP akce**
 
@@ -234,7 +247,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Zakázáno nutit hráče vybírat peníze z banky nebo přepisovat majetek
 * Maximální doba únosu je **1 hodina**
 * Po schválení hráče je možné únos prodloužit
-* Pokud je IC důvod k tomu hráče držet více jak 1 hodinu, je možné požádat o schválení AT.
+* Pokud je IC důvod k tomu hráče držet více jak 1 hodinu, je možné požádat o schválení AT
 * Ukradené zbraně nelze přejmenovat ani měnit jejich rytiny
   - je zakázáno odstranit sériové číslo z ukradených zbraní dříve, jak po 7 dnech od ukradení a jinak než scriptem
 * Je zakázáno rpit vlastní rytiny pokud si je skrze Gunsmitha neuděláte 
@@ -245,15 +258,34 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Přepad města by měl být opodstatněný a ne jen za účelem zisku předmětů od hráčů
 * Je zakázáno přepadat hráče u obchodníků jako je kadeřník, krejčí nebo u doktora
 * Větší organizovaná skupina (5 a více hráčů) = frakce (Je potřeba ticket)
-* Je přísně zakázáno odcizovat veškeré craftingové knihy (ranče, farmy, doktoři, indiáni, truhláři, kováři a další profese či frakce).
-* Je přísně zakázáno zneužívat volání doktora za účelem okradení nebo zabití osoby, která přijela pomoci.
+* Je přísně zakázáno odcizovat veškeré craftingové knihy (ranče, farmy, doktoři, indiáni, truhláři, kováři a další profese či frakce)
+* Je přísně zakázáno zneužívat volání doktora za účelem okradení nebo zabití osoby, která přijela pomoci
+
+**16.1 Držení v cele**
+* Maximální doba držení osoby v cele je **3 hodiny**
+* Po dobu držení osoby v cele musí probíhat odpovídající navazující RP (výslech, sepsání, čekání na transport, nebo jiné přiměřené úkony)
+* Toto omezení neplatí v případě, že osoba odmítne trest a čeká na soud. V takovém případě není doba držení omezena
+* V případě, že státní složka potřebuje prodloužit dobu držení nad 3 hodiny, je povinna vytvořit **ticket** na Ticket Discordu a předložit důvody, proč bude osoba držena déle. A-Team nezaručuje vyhovění žádosti
+* Je zakázáno držet hráče v cele pasivně bez odpovídající RP interakce pouze za účelem omezení jeho hry
+* Pokud státní složka s drženou osobou neodehrává odpovídající navazující RP nebo ji bezdůvodně ponechá v cele bez interakce, má hráč právo situaci řešit prostřednictvím **reportu** nebo **ticketu** a doložit důkazní materiál k posouzení situace A-Teamem
+
+**16.2 Laso, svazování a omezení pohybu**
+* Je zakázáno použít laso bez předchozí RP interakce, pokud situace zjevně nevyžaduje okamžitý zákrok
+* Použití lasa musí mít pádný RP důvod a musí odpovídat dané situaci
+* Je zakázáno využívat laso způsobem, který je zjevně nereálný, přehnaný nebo slouží pouze k trollení či omezení hry druhého hráče
+* Pokud je hráč svázán nebo omezen lasem, musí své RP přizpůsobit danému stavu a nemůže jednat způsobem, který by byl v takové situaci nereálný
+* **Samovolné rozvázání** je možné až po **5 minutách** od skončení RP, pokud není situace odehrána jinak
+
 ---
 
-## 17. Zvířata a laso
+## 17. Zvířata a PED
 
 * Zabíjení koní nebo domácích zvířat bez RP důvodu je zakázáno
-* Je zakázáno lasovat bez předchozí interakce
-* Samovolné rozvázání je možné až po **5 minutách** od skončení RP
+* Veškeré využívání PEDů a zvířat musí odpovídat realistickému RP roku 1899
+* Pes ani jiné zvíře nesmí být rpěno způsobem, který hráči poskytuje neférovou výhodu nebo obchází herní mechaniky
+* Zvíře musí být rpěno realisticky, včetně strachu, bolesti, stresu a reakcí na okolí
+* Pokud chce hráč rpit **vycvičeného** psa nebo jinak speciálně vedené zvíře, musí být tento výcvik řádně odehrán v RP, ideálně skrze relevantní postavu, například veterináře, trenéra nebo jinou vhodnou osobu
+* Je zakázáno rpít nadstandardně vycvičené, bezchybně poslušné nebo bojově využitelné zvíře bez odpovídajícího RP zázemí
 
 ---
 
@@ -266,40 +298,40 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 ## 19. CK (Character Kill)
 
 * Trvalé usmrcení postavy
-* Po provedení CK je nutné nahlásit CK do Support ticketu s lokaci místa činu s fotografii, s časem, způsobem a příčinou smrti, jak se s tělem manipulovalo a zažádat o výmaz postavy.
-* Každý hráč si vlastní CK schvaluje sám. Není možné do něj ostatní hráče nutit (ForceCK).
-* Hráč by si sám měl uvědomit kvalitu RP a učinit tak rozhodnutí, zda si CK uznat či nikoliv.
+* Po provedení CK je nutné nahlásit CK do Support ticketu s lokaci místa činu s fotografii, s časem, způsobem a příčinou smrti, jak se s tělem manipulovalo a zažádat o výmaz postavy
+* Každý hráč si vlastní CK schvaluje sám. Není možné do něj ostatní hráče nutit (ForceCK)
+* Hráč by si sám měl uvědomit kvalitu RP a učinit tak rozhodnutí, zda si CK uznat či nikoliv
    
-* Pro členy nelegálních skupin je CK automaticky povoleno od bosse frakce (ve své frakci).
+* Pro členy nelegálních skupin je CK automaticky povoleno od bosse frakce (ve své frakci)
   
 * **Jail CK** je automaticky schváleno v případě, že hráč má ve svém trestním rejstříku více než 150 let
 * **Jail CK** může být uděleno soudem
 
 * Je možnost **Situačního CK**, které je možné žádat prostřednictvím reportu případně ticketu a schvaluje ho A-Team
   
-* Po CK je návrat do stejné nelegální skupiny či do frakcí s ní spojené je možný po 14 dnech, za novou postavu se s nimi nemůže navazovat ani spolupráce bez schválení ticketu. 
-* Po CK je návrat do legální frakce (Úřad sheriffa, guvernéra, Doktoři) možný po 7 dnech.
+* Po CK je návrat do stejné nelegální skupiny či do frakcí s ní spojené je možný po 14 dnech, za novou postavu se s nimi nemůže navazovat ani spolupráce bez schválení ticketu
+* Po CK je návrat do legální frakce (Úřad sheriffa, guvernéra, Doktoři) možný po 7 dnech
   
 * Pokud se cizí člen nelegální skupiny objeví na pozemku vaší nelegální skupiny, lze mu udělit CK bez schválení. (Nesmíte hráči forcovat jeho vnik na pozemek, např. přes carry ho odnesu na pozemek a udělím mu tak CK. Hráč musí sám vstoupit na pozemek)
   
 * CK se vyhlašuje dle formátu: CK - jméno postavy
   
 * **Žádost o CK**
-* V případě, že vám daná osoba několikrát opakovaně CK neschválila, je možné si o něj požádat v ticketu na webu ZENNFIELD .
-* V Ticketu je třeba rozepsat komu a proč chcete CK udělit a přiložit nejméně 3 důkazy o tom, že jsou důvody pro CK oprávněné.
-* Následná žádost o CK je platná po **dobu 7 dnů.**
+* V případě, že vám daná osoba několikrát opakovaně CK neschválila, je možné si o něj požádat v ticketu na webu ZENNFIELD 
+* V Ticketu je třeba rozepsat komu a proč chcete CK udělit a přiložit nejméně 3 důkazy o tom, že jsou důvody pro CK oprávněné
+* Následná žádost o CK je platná po **dobu 7 dnů**
 
 
 ---
 
 ## 20. PK (Player Kill)
 
-* Aktuální zabití postavy, postava je vážně zraněna a musí se nechat ošetřit.
+* Aktuální zabití postavy, postava je vážně zraněna a musí se nechat ošetřit
 * Do PK se můžete dostat dvěma způsoby:
   1. Udeření tupým předmětem do hlavy - musí být napsáno do `/me`
   2. Ocitnutí se v Dead Screenu pomocí pažby
 * Vždy musíte při udělení PK napsat do LOOC např. "Máš PK" nebo "PK"
-* Postava si po PK 1 IRL den nepamatuje situaci, kdy PK dostala. Může si vybavit počátek např. "Odjížděl jsem z Blackwateru a v tu chvíli mě přepadli 2 jezdci na koních", ale výslech a podrobnosti o tom, kam vás vezly si můžete začít vybavovat až další den.
+* Postava si po PK 1 IRL den nepamatuje situaci, kdy PK dostala. Může si vybavit počátek např. "Odjížděl jsem z Blackwateru a v tu chvíli mě přepadli 2 jezdci na koních", ale výslech a podrobnosti o tom, kam vás vezly si můžete začít vybavovat až další den
 * Nikdy byste neměli znát přesné detaily co a jak se stalo
 
 ---
@@ -324,9 +356,9 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Cílem PvP je **RP, ne rychlé zabíjení**
 * Před střelbou musí proběhnout interakce
 * Duel = PK, nikoli CK
-* Zaměřovače: Je zakázáno používat jakékoliv zaměřovače na zbraních, a to bez výjimky, včetně šerifů a armády.
+* Zaměřovače: Je zakázáno používat jakékoliv zaměřovače na zbraních, a to bez výjimky, včetně šerifů a armády
 * **Combat Log** (odpojení ze situace) je přísně zakázán
-* Je zakázáno používat psy k útokům, zadržování, nahánění, zabíjení nebo jinému bojovému využití.
+* Je zakázáno používat psy k útokům, zadržování, nahánění, zabíjení nebo jinému bojovému využití
 
 ---
 
@@ -348,7 +380,12 @@ Zakázáno:
 * nereálné chování nebo parkour
 * Běhání po střechách ve městě, bez pádného RP důvodu
 * Je zakázáno brát osoby od doktora bez předešlého RP a nebo před doerpením injuries
-* Je zakázáno vytvářet si postavy na krátké RP, za účelem trollu nebo jednodenního RP. (Výjimka jsou eventové postavy, které jsou na schválení AT)
+* Je zakázáno vytvářet si postavy na krátké RP, za účelem trollu nebo jednodenního RP (Výjimka jsou eventové postavy, které jsou na schválení AT)
+
+**25.1 Snitching**
+* Je zakázáno bez pádného a logického IC důvodu donášet na vlastní skupinu, osoby, se kterými hráč aktivně vytváří nelegální RP, nebo na osoby, vůči nimž hráč sám vyvolal konflikt bez odpovídajícího RP opodstatnění
+* Je zakázáno využívat snitching jako prostředek osobní msty, ochrany před následky vlastního RP nebo k vyvolání OOC řešení skrze IC hru
+* V případě podezření na metagaming, mixing nebo jiné porušení pravidel je hráč povinen řešit situaci výhradně přes ticket nebo report na A-Team, nikoliv skrze IC donášení
 
 ---
 
@@ -359,8 +396,8 @@ Zakázáno:
 * Během řešení s AT musí **skrýt overlay a vypnout stream**
 * Nahrávání RP se doporučuje jako důkazní materiál
 * AT může kdykoliv požádat o záznam
-* Je **přísně zakázáno** nahrávat, pořizovat jakékoliv záznamy, streamovat nebo jinak archivovat řešení situací s A-Teamem, a to hlasově, obrazově, formou screenshotů i textových logů.Tento zákaz platí pro veškeré řešení reportů, ticketů, stížností, vysvětlování situací, trestů i interní komunikaci s AT.
-* Jakékoliv šíření, zveřejňování nebo uchovávání těchto záznamů je považováno za hrubé porušení pravidel a může vést k přísnému trestu až po permanentní ban.
+* Je **přísně zakázáno** nahrávat, pořizovat jakékoliv záznamy, streamovat nebo jinak archivovat řešení situací s A-Teamem, a to hlasově, obrazově, formou screenshotů i textových logů.Tento zákaz platí pro veškeré řešení reportů, ticketů, stížností, vysvětlování situací, trestů i interní komunikaci s AT
+* Jakékoliv šíření, zveřejňování nebo uchovávání těchto záznamů je považováno za hrubé porušení pravidel a může vést k přísnému trestu až po permanentní ban
 
 ---
 
@@ -375,10 +412,10 @@ Zakázáno:
 * vypínání trávy či úprava viditelnosti
 * používání softwaru nebo hardwaru ke zlepšení přesnosti či reakcí
 
-Pokud hráč objeví bug, **musí ho ihned nahlásit přes ticket**.
-Porušení tohoto pravidla znamená **permanentní ban**.
+Pokud hráč objeví bug, **musí ho ihned nahlásit přes ticket**
+Porušení tohoto pravidla znamená **permanentní ban**
 
-Zakázáno je i **obcházení trestů nebo zakládání nových účtů po banu**.
+Zakázáno je i **obcházení trestů nebo zakládání nových účtů po banu**
 
 ---
 
