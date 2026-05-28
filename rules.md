@@ -357,7 +357,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Cílem PvP je **RP, ne rychlé zabíjení**
 * Před střelbou musí proběhnout interakce
 * Duel = PK, nikoli CK
-* Zaměřovače: Je zakázáno používat jakékoliv zaměřovače na zbraních, a to bez výjimky, včetně šerifů a armády
+* Zaměřovače: Je zakázáno používat jakékoliv zaměřovače na zbraních v rámci PVP, a to bez výjimky, včetně šerifů a armády
 * **Combat Log** (odpojení ze situace) je přísně zakázán
 * Je zakázáno používat psy k útokům, zadržování, nahánění, zabíjení nebo jinému bojovému využití
 
