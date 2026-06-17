@@ -47,13 +47,12 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Jméno postavy musí být dobové a originální
 * Postava musí mít vlastní příběh, motivace a realistické cíle
 * Je zakázáno vytvářet postavy pouze za účelem pomsty nebo obcházení trestů
-* Hráč si musí zvolit herní směr své postavy (legální, neutral, nelegální) a tento směr dodržovat
+* Hráč si na začátku roleplay zvolí směr vývoje své postavy (legální, neutrální nebo nelegální), který bude v rámci RP dodržovat a postupně rozvíjet. V průběhu hraní, po dostatečném vývoji postavy, je možné tento směr změnit.
 * Každá postava musí být vedena jako samostatná osobnost s vlastním příběhem, motivací, vazbami a následky svého jednání
 
 **1.1 Multichar**
 * Hráč může vlastnit a aktivně hrát více postav pouze za předpokladu, že mezi nimi nedochází k žádnému přímému ani nepřímému propojení, které by vedlo k výhodě v RP
 * Je zakázáno předávat mezi vlastními postavami informace, kontakty, majetek, znalosti, vazby, lokace, obchodní vztahy nebo jakékoli jiné výhody, a to přímo i nepřímo
-* Pokud má hráč jednu postavu u státních složek, je přísně zakázáno provozovat na jiné postavě jakoukoli nelegální činnost
 * Pokud hráč vlastní více postav zaměřených na nelegální RP, tyto postavy nesmí být nijak IC propojené. Nesmí spolupracovat, obchodovat, být ve vzájemném konfliktu za účelem získání RP výhody ani působit ve skupinách, frakcích či strukturách, které jsou mezi sebou personálně, obchodně nebo mocensky propojené
 * Je zakázáno využívat druhou postavu k vyhýbání se RP na první postavě, tím je myšleno například vyšetřování, konflikty či jiné následky předchozího RP
 * Jakákoli výjimka je možná pouze po předchozím schválení A-Teamu prostřednictvím **ticketu**
@@ -205,6 +204,8 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Střelba ve městě je povolena v případě, že máte pádný RP důvod
 * **Vypalování objektů** jako jsou domy či jiné budovy, je povoleno pouze v odůvodněných případech. Pokud se rozhodnete něco vypálit, musíte mít připravené pádné argumenty a jasné důvody, proč je tento krok nezbytný. Takové jednání zároveň podléhá předchozímu schválení prostřednictvím **ticketu** od A-Teamu. Před samotným provedením akce musí být **vytvořen a schválen** příslušný ticket, na jehož základě je možné daný úkon realizovat
 * Vodítka a výslechy NPC - je možné řešit skrze ticket a tak zjistit více informací a podrobností
+* Jakákoliv nelegální činnost musí zanechat přiměřené RP stopy či indicie, aby ostatní hráči měli možnost na situaci reagovat a rozvíjet následný roleplay. Týká se to například vypálení domu, poničení věcí na farmě, krádeže, rozstřílení domu a dalších nelegálních aktivit.
+* Pokud pácháte nelegální činnost, kterou mohl zpozorovat "místní" je možné poslat report, pro hlášení pro šerify.
 
 **13.1 Komunikace skrze NPC**
 * Jakýkoliv způsob komunikace skrze NPC za účelem předání informace, odkazu nebo své polohy (např. poslíček, vzkaz, doručení zprávy) musí být důkladně odehrán přes /do a hráč musí být fyzicky přítomen u daného NPC.
@@ -237,14 +238,15 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Zákaz odpojení se / respawnu při RP akci za účelem vyhnutí se trestu, ztráty majetku atp
 * Po pádu / restartu serveru či vaší hry je nutné navázat na předešlou RP akci. Pokud se naskytl nějaký problém, ( jste na jiném místě, ...)  napište si report a počkejte na reakci člena AT. Není možné si sám RP akci skipovat
 * V případě, že máte jakýkoliv problém s připojením na server, je vaší poviností informovat hráče prostřednictvím OOC chatu na discordu
-* **Po jakékoliv nelegální aktivitě se můžete ze serveru odpojit nejdříve za 1 hodinu od ukončení RP akce**
+* **Po jakékoliv nelegální aktivitě se můžete odpojit ze serveru nejdříve 1 hodinu od ukončení RP akce**
+- Výjimku tvoří situace, kdy se hráči nachází na natolik odlehlém místě, že jejich dohledání není realistické. V takovém případě mohou vypsat report a po schválení administrátorem se mohou odpojit dříve.
 
 ---
 
 ## 16. Loupeže, únosy a nelegální činnost
 
 * Lze okrást pouze o to, co má hráč **u sebe nebo v batohu**
-* Zakázáno nutit hráče vybírat peníze z banky nebo přepisovat majetek
+* Zakázáno nutit hráče vybírat peníze z banky nebo přepisovat nemovitosti
 * Maximální doba únosu je **1 hodina**
 * Po schválení hráče je možné únos prodloužit
 * Pokud je IC důvod k tomu hráče držet více jak 1 hodinu, je možné požádat o schválení AT
@@ -255,11 +257,15 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Minimální počet hráčů pro přepad města je 5
   - každé město je možné přepadnout jednou za 3 dny
   - přepadávající se nesmí vrátit do přepadnutého města jeden IRL den, platí pro celou skupinu účastnící se přepadu
+  - Takové jednání zároveň podléhá předchozímu schválení prostřednictvím ticketu od A-Teamu. Před samotným provedením akce musí být vytvořen a schválen  příslušný ticket, na jehož základě je možné daný úkon realizovat.
+  - K zahájení přepadení města je vyžadováno minimálně 5 aktivně zapojených osob.
+  - Do přepadení města se nezapočítávají běžné trestné činy a menší přepadení, jako například přepadení obchodu, salonu, banky a podobných objektů. Tyto akce nejsou považovány za přepadení města.
+  - V případě nejasností ohledně toho, zda se plánovaná akce považuje za přepadení města, je hráč povinen založit ticket a informovat se u vedení/staff týmu
 * Přepad města by měl být opodstatněný a ne jen za účelem zisku předmětů od hráčů
 * Je zakázáno přepadat hráče u obchodníků jako je kadeřník, krejčí nebo u doktora
-* Větší organizovaná skupina (5 a více hráčů) = frakce (Je potřeba ticket)
 * Je přísně zakázáno odcizovat veškeré craftingové knihy (ranče, farmy, doktoři, indiáni, truhláři, kováři a další profese či frakce)
 * Je přísně zakázáno zneužívat volání doktora za účelem okradení nebo zabití osoby, která přijela pomoci
+* Ukradené koně nelze prodávat u NPC stájníka a nelze jim měnit hřívy, ocasy a další
 
 **16.1 Držení v cele**
 * Maximální doba držení osoby v cele je **3 hodiny**
@@ -367,27 +373,36 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Jakákoli korupce ve státních složkách nebo na úřednických postech je naprosto zakázána
 * Je možné požádat o korupci prostřednictvím ticketu
-
+* Za korupci je považováno vědomé zneužívání pravomocí státní role ve vlastní prospěch, spolupráce s kriminálními skupinami nebo úmyslné jednání poškozující vlastní frakci či její zájmy.
+- Členové šerifského sboru, starostové a lékaři mohou sklouznout ke korupčnímu jednání, avšak pouze tehdy, pokud to odpovídá vývoji jejich postavy a dává to smysl v rámci příběhu. Nestačí pouhá motivace typu „chci více peněz“ bez předchozího IC vývoje, vztahů nebo relevantních událostí. Doporučuje se zároveň tuto dějovou linku předem oznámit prostřednictvím AT ticketu.
+- Guvernér, státní úředníci a Maršálové představují nejvyšší mocenské pozice ve státě, a z tohoto důvodu jejich postavy nesmějí být korumpovatelné v žádné situaci. Výjimky nejsou možné ani po schválení ticketem. Toto omezení slouží k zachování rovnováhy hry a důvěryhodnosti klíčových státních funkcí.
+- Korupce by měla sloužit především jako prostředek pro kvalitnější a hlubší RP. Každá postava, která se vydá touto cestou, musí počítat s možnými důsledky, ať už v rámci IC (vězení, ztráta pozice, poprava), nebo OOC postihy v případě porušení stanovených pravidel.
 ---
 
-## 25. Fail, Troll, KOS a Trash RP
+## 25. Fail, Trol a Trash RP
 
-Zakázáno:
+Následující chování je považováno za porušení pravidel:
 
-* bezdůvodné napadání, zabíjení nebo provokace
-* chování mimo dobový lore
-* ničení RP akcí, parodování postav
-* ustřelování hlav či končetin bez důvodu
-* nereálné chování nebo parkour
+* Bezdůvodné napadání, provokace nebo narušování RP situací
+* Chování, které neodpovídá dobovému loru
+* Ničení RP scén, parodování postav nebo záměrné kazení atmosféry
+* Bezdůvodné ustřelování hlav či končetin
+* Nereálné chování postavy nebo zneužívání pohybu (např. parkour)
 * Běhání po střechách ve městě, bez pádného RP důvodu
 * Je zakázáno brát osoby od doktora bez předešlého RP a nebo před doerpením injuries
 * Je zakázáno vytvářet si postavy na krátké RP, za účelem trollu nebo jednodenního RP (Výjimka jsou eventové postavy, které jsou na schválení AT)
 
 **25.1 Snitching**
-* Je zakázáno bez pádného a logického IC důvodu donášet na vlastní skupinu, osoby, se kterými hráč aktivně vytváří nelegální RP, nebo na osoby, vůči nimž hráč sám vyvolal konflikt bez odpovídajícího RP opodstatnění
-* Je zakázáno využívat snitching jako prostředek osobní msty, ochrany před následky vlastního RP nebo k vyvolání OOC řešení skrze IC hru
-* V případě podezření na metagaming, mixing nebo jiné porušení pravidel je hráč povinen řešit situaci výhradně přes ticket nebo report na A-Team, nikoliv skrze IC donášení
+* Je zakázáno bez pádného a logického IC důvodu donášet na vlastní skupinu, osoby, se kterými hráč aktivně vytváří nelegální RP, nebo na osoby, vůči nimž hráč sám vyvolal konflikt bez odpovídajícího RP opodstatnění.
+* Je zakázáno využívat snitching jako prostředek osobní msty, ochrany před následky vlastního RP nebo k vyvolání OOC řešení skrze IC hru.
+* V případě podezření na metagaming, mixing nebo jiné porušení pravidel je hráč povinen řešit situaci výhradně přes ticket nebo report na A-Team, nikoliv skrze IC donášení.
+* Jakýkoliv snitching vůči jiné nelegální skupině musí být předem schválen A-Teamem. Schválení slouží k ověření správného IC důvodu, návaznosti RP a legitimního zahájení situace.
 
+**25.2 KOS** 
+Zakázáno je zejména:
+
+- Zabití na první pohled nebo svázání lasem, bez nějaké předešlé interakce či RP je u nás přísně zakázáno.
+- Ze situace musí být pro hráče jasné, že se po něm může začít střílet. V takovém případě se nejedná o KOS.
 ---
 
 ## 26. Streamy a nahrávání
