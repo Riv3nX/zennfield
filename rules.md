@@ -205,7 +205,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * **Vypalování objektů** jako jsou domy či jiné budovy, je povoleno pouze v odůvodněných případech. Pokud se rozhodnete něco vypálit, musíte mít připravené pádné argumenty a jasné důvody, proč je tento krok nezbytný. Takové jednání zároveň podléhá předchozímu schválení prostřednictvím **ticketu** od A-Teamu. Před samotným provedením akce musí být **vytvořen a schválen** příslušný ticket, na jehož základě je možné daný úkon realizovat
 * Vodítka a výslechy NPC - je možné řešit skrze ticket a tak zjistit více informací a podrobností
 * Jakákoliv nelegální činnost musí zanechat přiměřené RP stopy či indicie, aby ostatní hráči měli možnost na situaci reagovat a rozvíjet následný roleplay. Týká se to například vypálení domu, poničení věcí na farmě, krádeže, rozstřílení domu a dalších nelegálních aktivit.
-* Pokud pácháte nelegální činnost, kterou mohl zpozorovat "místní" je možné poslat report, pro hlášení pro šerify.
+* Pokud pácháte nelegální činnost, kterou mohl zpozorovat "místní" jste povinni poslat report, pro hlášení pro šerify.
 
 **13.1 Komunikace skrze NPC**
 * Jakýkoliv způsob komunikace skrze NPC za účelem předání informace, odkazu nebo své polohy (např. poslíček, vzkaz, doručení zprávy) musí být důkladně odehrán přes /do a hráč musí být fyzicky přítomen u daného NPC.
