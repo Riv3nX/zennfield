@@ -254,20 +254,26 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
   - je zakázáno odstranit sériové číslo z ukradených zbraní dříve, jak po 7 dnech od ukradení a jinak než scriptem
 * Je zakázáno rpit vlastní rytiny pokud si je skrze Gunsmitha neuděláte 
 * Po nelegální aktivitě si nesmíte 2 IRL dny **zdelšovat vousy/vlasy**, neplatí pro zkracování, také je zakázáno **měnit barvu vlasů/vousů**
-* Minimální počet hráčů pro přepad města je 5
-  - každé město je možné přepadnout jednou za 3 dny
-  - přepadávající se nesmí vrátit do přepadnutého města jeden IRL den, platí pro celou skupinu účastnící se přepadu
-  - Takové jednání zároveň podléhá předchozímu schválení prostřednictvím ticketu od A-Teamu. Před samotným provedením akce musí být vytvořen a schválen  příslušný ticket, na jehož základě je možné daný úkon realizovat.
-  - K zahájení přepadení města je vyžadováno minimálně 5 aktivně zapojených osob.
-  - Do přepadení města se nezapočítávají běžné trestné činy a menší přepadení, jako například přepadení obchodu, salonu, banky a podobných objektů. Tyto akce nejsou považovány za přepadení města.
-  - V případě nejasností ohledně toho, zda se plánovaná akce považuje za přepadení města, je hráč povinen založit ticket a informovat se u vedení/staff týmu
-* Přepad města by měl být opodstatněný a ne jen za účelem zisku předmětů od hráčů
 * Je zakázáno přepadat hráče u obchodníků jako je kadeřník, krejčí nebo u doktora
 * Je přísně zakázáno odcizovat veškeré craftingové knihy (ranče, farmy, doktoři, indiáni, truhláři, kováři a další profese či frakce)
 * Je přísně zakázáno zneužívat volání doktora za účelem okradení nebo zabití osoby, která přijela pomoci
-* Ukradené koně nelze prodávat u NPC stájníka a nelze jim měnit hřívy, ocasy a další
+* Ukradené koně a povozy nelze prodávat u NPC stájníka a nelze jim měnit hřívy, ocasy a další úpravy
 
-**16.1 Držení v cele**
+**16.1 Přepadení a okrádání**
+* Přepadení má být přiměřené a sloužit především k vytvoření kvalitního RP, nikoliv k úplnému vyprázdnění inventáře.
+* Je zakázáno oběti odebrat veškeré peníze, všechny zbraně nebo kompletní obsah inventáře. Po přepadení musí hráči zůstat část peněz, alespoň jedna použitelná zbraň a část vybavení. Je zakázáno oběť zcela odzbrojit, pokud k tomu není zvláštní RP důvod.
+* Je zakázáno bez RP důvodu odcizovat veškeré běžné suroviny, jídlo, léky, munici nebo jiné drobné předměty jen proto, že se nachází v inventáři.
+
+**16.2 Přepadení města**
+  - Každé město je možné přepadnout jednou za 3 dny
+  - Přepadávající se nesmí vrátit do přepadnutého města 1 IRL den, platí pro celou skupinu účastnící se přepadu
+  - K zahájení přepadení města je vyžadováno minimálně 5 aktivně zapojených osob.
+  - Do přepadení města se nezapočítávají běžné trestné činy a menší přepadení, jako například přepadení obchodu, banky a podobných objektů. Tyto akce nejsou považovány za přepadení města.
+* Přepad města by měl být opodstatněný a ne jen za účelem zisku předmětů od hráčů
+* V případě nejasností ohledně toho, zda se plánovaná akce považuje za přepadení města, je hráč povinen založit ticket a informovat se u vedení/staff týmu
+* Přepad města a větší nelegální akce celkově zároveň podléhají předchozímu schválení prostřednictvím ticketu od A-Teamu. Před samotným provedením akce musí být vytvořen a schválen  příslušný ticket, na jehož základě je možné daný úkon realizovat.
+
+**16.3 Držení v cele**
 * Maximální doba držení osoby v cele je **3 hodiny**
 * Po dobu držení osoby v cele musí probíhat odpovídající navazující RP (výslech, sepsání, čekání na transport, nebo jiné přiměřené úkony)
 * Toto omezení neplatí v případě, že osoba odmítne trest a čeká na soud. V takovém případě není doba držení omezena
@@ -276,7 +282,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 * Je zakázáno držet hráče v cele pasivně bez odpovídající RP interakce pouze za účelem omezení jeho hry
 * Pokud státní složka s drženou osobou neodehrává odpovídající navazující RP nebo ji bezdůvodně ponechá v cele bez interakce, má hráč právo situaci řešit prostřednictvím **reportu** nebo **ticketu** a doložit důkazní materiál k posouzení situace A-Teamem
 
-**16.2 Laso, svazování a omezení pohybu**
+**16.4 Laso, svazování a omezení pohybu**
 * Je zakázáno použít laso bez předchozí RP interakce, pokud situace zjevně nevyžaduje okamžitý zákrok
 * Použití lasa musí mít pádný RP důvod a musí odpovídat dané situaci
 * Je zakázáno využívat laso způsobem, který je zjevně nereálný, přehnaný nebo slouží pouze k trollení či omezení hry druhého hráče
