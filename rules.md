@@ -261,7 +261,7 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 **16.1 Přepadení a okrádání**
 * Přepadení má být přiměřené a sloužit především k vytvoření kvalitního RP, nikoliv k úplnému vyprázdnění inventáře.
-* Je zakázáno oběti odebrat veškeré peníze, všechny zbraně nebo kompletní obsah inventáře. Po přepadení musí hráči zůstat část peněz, alespoň jedna použitelná zbraň a část vybavení. Je zakázáno oběť zcela odzbrojit, pokud k tomu není zvláštní RP důvod.
+* Je zakázáno oběti odebrat veškeré peníze, všechny zbraně nebo kompletní obsah inventáře. Po přepadení musí hráči zůstat část peněz, alespoň jedna jeho použitelná zbraň a část jeho vybavení. Je zakázáno oběť zcela odzbrojit, pokud k tomu není zvláštní RP důvod.
 * Je zakázáno bez RP důvodu odcizovat veškeré běžné suroviny, jídlo, léky, munici nebo jiné drobné předměty jen proto, že se nachází v inventáři.
 
 **16.2 Přepadení města**
