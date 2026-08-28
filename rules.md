@@ -180,7 +180,6 @@ Herní přezdívka nesmí obsahovat **speciální znaky, barvy, cizí abecedy, e
 
 * Hraní strachu - je potřeba brát v potaz aktuální situaci a k ní přizpůsobit svoje RP `/me`, `/do` a mluvení (váš tón) ať už se jedná o vás či blízkou osobu.
 * Musíte dbát také na příběh své postavy a mít respekt k ozbrojeným složkám
-* Toto pravidlo se netýká nelegálních skupin, které budou v danou chvíli v konfliktu s ozbrojenými složkami
 
 ---
 
