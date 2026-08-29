@@ -409,7 +409,7 @@ Zakázáno je zejména:
 - Zabití na první pohled nebo svázání lasem, bez nějaké předešlé interakce či RP je u nás přísně zakázáno.
 - Ze situace musí být pro hráče jasné, že se po něm může začít střílet. V takovém případě se nejedná o KOS.
 
-**25.3 Cílené obtěžování hráčů
+**25.3 Cílené obtěžování hráčů**
 
 Je zakázáno **cíleně a opakovaně znepříjemňovat hru konkrétnímu hráči** nebo skupině hráčů, ať už **IC nebo OOC**.
 
