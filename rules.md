@@ -408,6 +408,22 @@ Zakázáno je zejména:
 
 - Zabití na první pohled nebo svázání lasem, bez nějaké předešlé interakce či RP je u nás přísně zakázáno.
 - Ze situace musí být pro hráče jasné, že se po něm může začít střílet. V takovém případě se nejedná o KOS.
+
+**25.3 Cílené obtěžování hráčů
+
+Je zakázáno **cíleně a opakovaně znepříjemňovat hru konkrétnímu hráči** nebo skupině hráčů, ať už **IC nebo OOC**.
+
+Týká se to například:
+
+* neustálého vyhledávání stejného hráče za účelem provokace,
+* přenášení OOC sporů do IC,
+* vytváření IC konfliktů pouze proto, abyste hráče OOC naštvali nebo mu kazili hru,
+* opakovaného obtěžování, provokování nebo šikanování.
+
+**Běžný IC konflikt nebo dlouhodobá rivalita postav se za porušení nepovažuje, pokud má skutečný RP důvod.**
+
+Pokud AT vyhodnotí, že někoho **úmyslně a cíleně vysíráte místo toho, abyste hráli RP**, můžete dostat **permanentní ban bez možnosti odvolání**.
+
 ---
 
 ## 26. Streamy a nahrávání
